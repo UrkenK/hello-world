@@ -1,2 +1,3 @@
 # hello-world
-Firts project
+First project
+Want to start training on data analytics
